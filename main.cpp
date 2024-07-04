@@ -31,7 +31,7 @@ int main()
 
     std::cout << "After Removing Row and Column:" << std::endl;
     std::cout << "Row Count: " << sheet.rowCount() << std::endl;
-    std::cout << "Column Count: " << sheet.columnCount() << std::endl;
+    std::cout << "Column Count " << sheet.columnCount() << std::endl;
 
     return 0;
 }
